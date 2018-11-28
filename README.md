@@ -1,5 +1,5 @@
-# dockerdemo
-Learning docker
+# grpcdemo
+Learning gRPC
 
 For how to run follow below article
 
